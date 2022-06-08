@@ -1,0 +1,1 @@
+print('hi'.join(['item1','item2']))
